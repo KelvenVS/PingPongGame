@@ -6,7 +6,7 @@
 
 <h2>Descrição do Projeto</h2>
 
-<p>Projeto em JavaScript para entender o debug,condicionais e lógica de programação<p>
+<p>Projeto em JavaScript para entender e utilizar bibliotecas,condicionais e lógica da programação<p>
 
 <p>Com o intuito de testar os conhecimentos adquiridos no curso e integração em <strong>JavaScript</strong></p>
 
